@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">menusandspiner_day3</string>
+ <array name="array_country">
+     <item>India</item>
+     <item>Canada</item>
+     <item>USA</item>
+     <item>China</item>
+     <item>Nepal</item>
+     <item>Russia</item>
+     <item>Sri Lanka</item>
+     <item>France</item>
+     <item>Bhutan</item>
+     <item>Mexico</item>
+     <item>Pakistan</item>
+
+ </array>
+</resources>
